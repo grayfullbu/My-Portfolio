@@ -86,7 +86,7 @@ export default function Skills() {
     <>
     <Aboutbottom>
     <div className='provide'>
-    <div className='what'> What I Can Providessdasdsa</div>
+    <div className='what'> What I Can Providefgfdgfdg</div>
     <button onClick={toggleModal} className="btn-modal">
       <div  className='Front_end'>
         <div className='iconss'>
